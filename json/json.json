@@ -4,7 +4,7 @@
     {
       "name": "Homer Simpson",
       "speciality": "Speciality",
-      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/image1.png",
+      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/assets-photos/image1.png",
       "hourly_cost": "£20.00",
       "rating": "3.8",
       "reviews": 120,
@@ -17,7 +17,7 @@
     {
       "name": "Marge Simpson",
       "speciality": "Speciality",
-      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/image2.png",
+      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/assets-photos/image2.png",
       "hourly_cost": "£100.00",
       "rating": "5.0",
       "reviews": 15,
@@ -30,7 +30,7 @@
     {
       "name": "Bart Simpson",
       "speciality": "Speciality",
-      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/image3.png",
+      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/assets-photos/image3.png",
       "hourly_cost": "£75.00",
       "rating": "4.0",
       "reviews": 74,
@@ -43,7 +43,7 @@
     {
       "name": "Lisa Simpson",
       "speciality": "Speciality",
-      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/image1.png",
+      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/assets-photos/image1.png",
       "hourly_cost": "£35.00",
       "rating": "3.0",
       "reviews": 45,
@@ -56,7 +56,7 @@
     {
       "name": "Maggie Simpson",
       "speciality": "Speciality",
-      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/image2.png",
+      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/assets-photos/image2.png",
       "hourly_cost": "£10.00",
       "rating": "4.5",
       "reviews": 2,
@@ -69,7 +69,7 @@
      {
       "name": "Ned Flanders",
       "speciality": "Speciality",
-      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/image3.png",
+      "image_url": "https://raw.githubusercontent.com/apmartin1991/TestJson/main/assets-photos/image3.png",
       "hourly_cost": "£20.00",
       "rating": "3.7",
       "reviews": 8,
